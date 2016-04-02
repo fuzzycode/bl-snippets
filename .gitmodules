@@ -1,0 +1,3 @@
+[submodule "external/yasnippet-org-mode"]
+	path = external/yasnippet-org-mode
+	url = https://github.com/mattfidler/yasnippet-org-mode.git
