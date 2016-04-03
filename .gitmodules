@@ -1,0 +1,3 @@
+[submodule "external/org-mode"]
+	path = external/org-mode
+	url = https://github.com/RickMoynihan/yasnippet-org-mode.git
