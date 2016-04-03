@@ -3,4 +3,4 @@
 # key: elink
 # contributor: Björn Larsson <develop@bjornlarsson.net>
 # --
-[[{$1:url}]][[{$2:name}]]
+[[{$1:url}]][[{$2:name}]]$0
